@@ -29,13 +29,22 @@ Here are some ideas to get you started:
 
 :bulb: Cloud Engineer | SRE | AWS Certified | Scrum | ITIL
 
-Bilingual (English and Portuguese), hardworking and energetic professional with several years of experience in various IT roles, including cloud computing, software programming, and customer service interactions in collaborative work environments using Agile/Scrum.
-
-I'm ready for new and challenging opportunities to build on my cloud knowledge and gain more exposure and experience in infrastructure automation.
-
-I'm interested in hearing from former colleagues, managers or other professionals.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
+
+### 💬 About me 
+
+👋 Hi, I’m @vcleber, a hardworking and energetic professional with several years of experience in various IT roles, including cloud computing, software programming, and customer service interactions in collaborative work environments using Agile/Scrum.
+
+I am Bilingual (English and Portuguese), and an enthusiast for learning new systems and processes that help me design and implement successful collaborative projects.
+I'm ready for new and challenging opportunities to build on my cloud knowledge and gain more exposure and experience in infrastructure automation.
+
+### 🌱 I’m investing... 
+... my time learning the AWS architecture and practising the AWS services by resolving Service Now Tickets and working on internal projects.
+
+### 👀 I’m interested...
+...in hearing from former colleagues, managers or other professionals.
+
 
 <!--
 ### 🔭 Professional experience
@@ -47,7 +56,7 @@ Full Stack Developer | [Nov/2015 – Nov/2018] | • Designed and built microser
 System Analyst and Developer | [Aug/2012 – Nov/2015] | • Designed, built and maintained a Zabbix dashboard. <br> • Help Infrastructure and Engineering teams to debug and fix issues. <br>⇢ Environment: Scrum, Asp .Net C#, SQL Server, API Zabbix.
 System Analyst and Developer | [Dec/2011 – Jul/2012] | • Designed, built and maintained C# code. <br>⇢ Environment: Asp.Net C#, SQL Server, Agile.
 
-> My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
+### :mailbox_with_mail: victor.cleber@outlook.com
 
 ### 🔭 Professional skills
 - Ansible, Pipelines using Jenkins and Azure DevOps, Nexus;
@@ -67,10 +76,10 @@ DevOps Security | [Nov 2017]  | ITCERTS
 ITIL-Foundation | [Dec 2016]  | EXIN
 ScrumMaster | [Nov 2015]  | Scrum Alliance
 Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS
-
-### :mailbox_with_mail: victor.cleber@outlook.com
 -->
 
+
+📫 How to reach me: <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-cleber/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-cleber)
 
